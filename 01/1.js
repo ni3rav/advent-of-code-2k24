@@ -1,3 +1,5 @@
+//!! QUESTION: https://adventofcode.com/2024/day/1
+
 import fs from "fs/promises"; // !! to read from input-file
 import path from "path"; // !! to generate absolute path
 
