@@ -1,3 +1,5 @@
+//! DAY: https://adventofcode.com/2024/day/4
+
 import { readFromFile } from "../utils/readFromFile.js";
 
 // ** reading the input
